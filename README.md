@@ -1,4 +1,4 @@
-# DocAssist-Building-Intelligent-Medical-Decision-Support-System-
+# DocAssist-Building-Intelligent-Medical-Decision-Support-System
 ## Introduction
 This project aims to develop an intelligent medical decision support system leveraging machine learning and data analysis techniques. 
 The system analyzes patient data to assist doctors in making informed treatment decisions tailored to individual patients.
